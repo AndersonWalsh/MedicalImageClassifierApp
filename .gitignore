@@ -1,3 +1,4 @@
 .vscode
 .hintrc
 node_modules/
+release/
