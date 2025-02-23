@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- npm (Node Package Manager)
+- Node.js
 
 ## Setup
 
